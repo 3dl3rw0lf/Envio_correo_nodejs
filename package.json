@@ -1,0 +1,17 @@
+{
+  "name": "envio_correo_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "set NODE_ENV=development&& node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@getbrevo/brevo": "^2.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
