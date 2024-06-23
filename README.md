@@ -1,13 +1,13 @@
-# Enviar Correos con Node.js y Brevo
+# 📧📤 Enviar Correos con Node.js y Brevo
 
-Este proyecto muestra cómo enviar correos electrónicos utilizando la API de Brevo (anteriormente Sendinblue) con Node.js. El código está basado en el video [Enviar Correos en Nodejs con Brevo (Servicio de Correos Transaccionales)](https://youtu.be/7tpco9Fplsg?si=jgPmfJbqLg9n5ZIE) del canal [Fazt Code](https://www.youtube.com/@FaztCode).
+Este proyecto muestra cómo enviar correos electrónicos utilizando la API de Brevo (anteriormente Sendinblue) con Node.js. El código está basado en el video 🎞️ [Enviar Correos en Nodejs con Brevo (Servicio de Correos Transaccionales)](https://youtu.be/7tpco9Fplsg?si=jgPmfJbqLg9n5ZIE) del canal ***[Fazt Code](https://www.youtube.com/@FaztCode)***.
 
-## Prerrequisitos
+## Prerrequisitos 🛠️
 
 - Node.js instalado en tu máquina.
 - Una cuenta de Brevo con una clave API.
 
-## Instalación
+## Instalación ⚙️
 
 1. Clona el repositorio:
 
@@ -61,7 +61,7 @@ Este proyecto muestra cómo enviar correos electrónicos utilizando la API de Br
     }
     ```
 
-## Uso
+## Uso 👨🏽‍💻👩🏽‍💻
 
 1. Ejecuta la aplicación en modo desarrollo:
 
@@ -75,7 +75,7 @@ Este proyecto muestra cómo enviar correos electrónicos utilizando la API de Br
     npm start
     ```
 
-## Archivos
+## Archivos 📁
 
 - `server.js`: Contiene la lógica para enviar correos electrónicos utilizando la API de Brevo.
 - `config.js`: Configura las variables de entorno.
